@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdussalamattaqwa
 - 👀 I’m interested in codeigniter, and machine learning
-- 🌱 I’m currently learning at Machine Learning
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 abdussalamattaqwa/abdussalamattaqwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
